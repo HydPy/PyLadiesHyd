@@ -16,6 +16,8 @@ theme_settings:
      <h1> Hyderabad Pyladies Group </h1>
      <p>PyLadies Hyderabad, is launched in Oct 2017 whose aim is to help women become more active contributors in python community and development. 
      It is a platform to share, collaborate, learn,engage in python. Community driven group open to all with similar interest!</p>
+     <a class="button-inverse" href="https://chat.whatsapp.com/AXUTWXBMnr69yPDTwUyMpw">Join Us</a>
+
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
