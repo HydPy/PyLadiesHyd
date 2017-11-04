@@ -11,6 +11,18 @@ layout: default
   {% endif %}
 
   <div class="posts">
+    <div class="post-teaser">
+        <header style="text-align: center;">
+          <h1>Our Promoters</h1>
+          <div class="excerpt">
+          <img width="200" style="padding: 2%;" src="{{ site.baseurl }}/assets/img/hydpy.png">
+          <img width="200" style="padding: 2%;" src="{{ site.baseurl }}/assets/img/pssi_logo.png">
+        </div>
+        </header>
+    </div>
+  </div>
+
+  <div class="posts">
     {% for post in paginator.posts %}
     <div class="post-teaser">
       <header>

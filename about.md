@@ -5,8 +5,15 @@ permalink: /about/
 feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+<h1> Hyderabad Pyladies Group </h1>
+<p>PyLadies Hyderabad, is launched in Oct 2017 whose aim is to help women become more active contributors in python community and development.
+<p>It is a platform to share, collaborate, learn,engage in python. Community driven group open to all with similar interest!</p>
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+<h2>Upcoming Events</h2>
+<div class="">
+	<ul>
+		<li>Monthly Meetings</li>
+		<li>Workshops</li>
+		<li>Hackathons</li>
+	</ul>
+</div>
