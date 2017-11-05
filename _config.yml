@@ -16,7 +16,7 @@ theme_settings:
      <h1> Hyderabad Pyladies Group </h1>
      <p>PyLadies Hyderabad, is launched in Oct 2017 whose aim is to help women become more active contributors in python community and development. 
      It is a platform to share, collaborate, learn,engage in python. Community driven group open to all with similar interest!</p>
-     <a class="button-inverse" href="https://chat.whatsapp.com/AXUTWXBMnr69yPDTwUyMpw">Join Us</a>
+     <a class="button-inverse" href="https://chat.whatsapp.com/AXUTWXBMnr69yPDTwUyMpw"><i class="fa fa-whatsapp" aria-hidden="true"></i>&nbsp;Join Us</a>
 
   header_text_feature_image:
   footer_text: >
@@ -24,7 +24,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "pyladies@hydpy.org"
   behance:
   bitbucket:
   dribbble:
@@ -41,7 +41,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "PyladiesIndia"
+  twitter:
   wordpress:
   youtube:
 

@@ -2,3 +2,22 @@
 ---
 
 @import "type-theme";
+
+.site-header {
+	&, #post-nav {
+	    padding: 1% 6%;
+	}
+
+	.site-title {
+	    font-size: 2em;
+	}
+
+	.avatar {
+	    height: 4em;
+	    width: 4em;
+	}
+
+	.site-nav ul {
+	    margin: 1em;
+	}
+}
