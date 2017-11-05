@@ -1,2 +1,3 @@
-# PyLadiesHyd
-PyLadies Hyderabad Website
+# Pyladies Hyderabad
+---------------------
+Pyladies Hyderabad Website
