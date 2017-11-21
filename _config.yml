@@ -5,19 +5,18 @@ url: ""
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title:  Pyladies Hyderabad
+  title:  PyLadies Hyderabad
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "Pylaides Hyderabad group website, python, pyladies, hyderabad" # used by search engines
+  description: "PyLadies Hyderabad group website, python, pyladies, hyderabad" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1> Hyderabad Pyladies Group </h1>
-     <p>PyLadies Hyderabad, is launched in Oct 2017 whose aim is to help women become more active contributors in python community and development. 
-     It is a platform to share, collaborate, learn,engage in python. Community driven group open to all with similar interest!</p>
+     <p>PyLadies Hyderabad was launched in Oct 2017 whose aim is to help women become more active contributors in python community and development. 
+     It is a platform to share, collaborate, learn, engage in python, a Community driven group open to all with similar interest!</p>
      <a class="button-inverse" href="https://chat.whatsapp.com/AXUTWXBMnr69yPDTwUyMpw"><i class="fa fa-whatsapp" aria-hidden="true"></i>&nbsp;Join Us</a>
-
+     <a class="button-inverse" href="https://goo.gl/forms/zuNNrE50lsY93wao1">Become a Speaker</a>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>

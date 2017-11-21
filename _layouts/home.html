@@ -11,18 +11,6 @@ layout: default
   {% endif %}
 
   <div class="posts">
-    <div class="post-teaser">
-        <header style="text-align: center;">
-          <h1>Our Promoters</h1>
-          <div class="excerpt">
-          <a href="http://www.hydpy.org"><img width="200" style="padding: 2%;" src="assets/img/hydpy.png"></a>
-          <a href="https://www.python.org/psf/"><img width="250" style="padding: 2%;" src="assets/img/psf_logo.png"></a>
-        </div>
-        </header>
-    </div>
-  </div>
-
-  <div class="posts">
     {% for post in paginator.posts %}
     <div class="post-teaser">
       <header>
@@ -61,4 +49,16 @@ layout: default
     {% endif %}
   </div>
   {% endif %}
+
+  <div class="posts">
+    <div class="post-teaser">
+        <header style="text-align: center;">
+          <h1>Our Promoters</h1>
+          <div class="excerpt">
+          <a href="http://www.hydpy.org"><img width="200" style="padding: 2%;" src="assets/img/hydpy.png"></a>
+          <a href="https://www.python.org/psf/"><img width="250" style="padding: 2%;" src="assets/img/psf_logo.png"></a>
+        </div>
+        </header>
+    </div>
+  </div>
 </div>
