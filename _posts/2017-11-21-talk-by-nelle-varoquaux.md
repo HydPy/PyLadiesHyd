@@ -8,7 +8,7 @@ As some of you are aware, we have recently started PyLadies Hyderabad ([http://p
 
 We are thrilled to announce our first meetup which is going to happen on **25th of November (11:00 AM - 1:30 PM)** at Thoughtworks by Nelle Varoquaux.
 
-Nelle Varquaux ([https://www.linkedin.com/in/nelle-varoquaux-63250a34/](https://www.linkedin.com/in/nelle-varoquaux-63250a34/)) received a PhD in computational biology from École des Mines de Paris in 2015. She is a core developer of scikit-learn, MarkUs and Matplotlib. She was Program Chair for Scipy in 2015 and 2016. Her research interests are in statistical machine learning and scientific computing applied to molecular biology problems.
+Nelle Varoquaux ([https://www.linkedin.com/in/nelle-varoquaux-63250a34/](https://www.linkedin.com/in/nelle-varoquaux-63250a34/)) received a PhD in computational biology from École des Mines de Paris in 2015. She is a core developer of scikit-learn, MarkUs and Matplotlib. She was Program Chair for Scipy in 2015 and 2016. Her research interests are in statistical machine learning and scientific computing applied to molecular biology problems.
 
 Also, we would like to thank
 
