@@ -23,24 +23,24 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: "pyladies@hydpy.org"
+  email_address: "hyderabad@pyladies.com"
   behance:
   bitbucket:
   dribbble:
-  facebook: "HydPy"
+  facebook: 
   flickr:
   gitlab:
   github: "HydPy"
   google_plus:
-  instagram:
-  linkedin:  # Full URL
+  instagram: 
+  linkedin:  "https://www.linkedin.com/company/pyladieshyderabad"
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "hydPython"
+  twitter: "pyladieshyd"
   wordpress:
   youtube:
   meetup: "Hyderabad-Python-Meetup-Group"
