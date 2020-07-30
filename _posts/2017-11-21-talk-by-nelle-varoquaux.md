@@ -16,4 +16,4 @@ Also, we would like to thank
 - Dr. Prabhu Ramachandran (Department of Aerospace Engineering,IIT Bombay) for connecting us with Nelle Varoquaux.
 - Asokan Pichai for helping us coordinate the speaker logistics for the event. Asokan heads L&D at TalentSprint and has provided space for regular Hydpy meetups.
 
-We're very excited to see each one of you at the event.
+
