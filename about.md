@@ -1,6 +1,6 @@
 ---
 layout: page
-# title: About
+
 permalink: /about/
 feature-img: "assets/img/meetup_img.jpeg"
 ---
