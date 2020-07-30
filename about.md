@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/meetup.jpeg"
+feature-img: "assets/img/meetup_img.jpeg"
 ---
 
 # Hyderabad PyLadies Group
