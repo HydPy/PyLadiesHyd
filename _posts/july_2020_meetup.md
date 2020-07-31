@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 'PyLadies Hyderabad and HydPy collborative meetup - July 2020'
+permalink: /_posts/july_2020_meetup
 tags: [pyladies, PyLadiesHyd, meetup, talk]
 ---
 
