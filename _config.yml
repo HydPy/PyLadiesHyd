@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: ""
+url: "/_posts/july_2020_meetup"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
