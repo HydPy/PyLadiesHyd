@@ -11,7 +11,7 @@ layout: default
     </p>
   </header>
   <section class="post-content">
-     {% image {{ site.baseurl }}/{{ page.feature-img ?width = 250}} % }
+     {% image {{ site.baseurl }}/{{ page.feature-img}} %}
     {{ content }}
   </section>
   {% include tags_list.html tags=page.tags tag_count=page.tags.size %}
