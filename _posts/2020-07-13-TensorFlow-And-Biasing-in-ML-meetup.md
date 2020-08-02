@@ -3,9 +3,6 @@ layout: post
 title: 'PyLadies Hyderabad and HydPy collborative meetup - July 2020'
 tags: [pyladies, PyLadiesHyd, meetup, talk]
 ---
-## Key figures
- ![GSD1 phenotype]( {{ site.baseurl }}/assets/img/july_meetup_2020.png )
----
 
 We are glad to announce our next meetup in collaboration with HydPy and IBM. We'll be organizing this meetup themed around Machine Learning and we have two awesome SMEs giving interesting talks.
 
@@ -36,3 +33,7 @@ How to apply the fairness algorithms to reduce bias
 How to apply a practical use case of bias measurement & mitigation in a data-driven medical care management scenario"
 
 We'd like to thank IBM & HydPy for collaborating with us on this.
+
+........
+## Key figures
+ ![GSD1 phenotype]( {{ site.baseurl }}/assets/img/july_meetup_2020.png )
