@@ -3,12 +3,12 @@ layout: default
 ---
 <article {% if page.feature-img %}class="feature-image"{% endif %}>
   <header>
-    {% image {{ site.baseurl }}/{{ page.feature-img? width=250 }} % }
    <h1 class="title">{{ page.title }}</h1>
     {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
     <p class="meta">
       {{ page.date | date: "%B %-d, %Y" }}
       {% if page.author %} - {{ page.author }}{% endif %}
+      {% image {{ site.baseurl }}/{{ page.feature-img }} % }
     </p>
   </header>
   <section class="post-content">
