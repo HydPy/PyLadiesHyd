@@ -4,7 +4,7 @@ title: 'PyLadies Hyderabad and HydPy collborative meetup - July 2020'
 tags: [pyladies, PyLadiesHyd, meetup, talk]
 ---
 
-We are glad to announce our next meetup in collaboration with PyLadiedHyd and IBM. We'll be organizing this meetup themed around Machine Learning and we have two awesome SMEs giving interesting talks.
+We are glad to announce our next meetup in collaboration with HydPy and IBM. We'll be organizing this meetup themed around Machine Learning and we have two awesome SMEs giving interesting talks.
 
 NOTE : Watch our webinar live on youtube (https://www.youtube.com/watch?v=1E8A0J3QHWg/)
 
