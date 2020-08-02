@@ -34,5 +34,5 @@ How to apply a practical use case of bias measurement & mitigation in a data-dri
 
 We'd like to thank IBM & HydPy for collaborating with us on this.
 
-
-{{HTML ::image({{ site.url }}/assets/image.png)}}
+........
+![]({{ site.url }}/assets/image.png = 100*20)
