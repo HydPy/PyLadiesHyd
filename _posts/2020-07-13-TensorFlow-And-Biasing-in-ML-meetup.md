@@ -35,4 +35,5 @@ How to apply a practical use case of bias measurement & mitigation in a data-dri
 We'd like to thank IBM & HydPy for collaborating with us on this.
 
 ........
+## Image
  ![GSD1 phenotype]( {{ site.baseurl }}/assets/img/july_meetup_2020.png )
