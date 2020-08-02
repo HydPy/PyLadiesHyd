@@ -35,4 +35,4 @@ How to apply a practical use case of bias measurement & mitigation in a data-dri
 We'd like to thank IBM & HydPy for collaborating with us on this.
 
 
-![]({{ site.url }}/assets/img/july_meetup_2020.png =250x)
+![]({{ site.url }}/assets/img/july_meetup_2020.png)
