@@ -8,10 +8,10 @@ layout: default
     <p class="meta">
       {{ page.date | date: "%B %-d, %Y" }}
       {% if page.author %} - {{ page.author }}{% endif %}
-      {% image {{ site.baseurl }}/{{ page.feature-img }} % }
     </p>
   </header>
   <section class="post-content">
+     {% image {{ site.baseurl }}/{{ page.feature-img ?width = 250}} % }
     {{ content }}
   </section>
   {% include tags_list.html tags=page.tags tag_count=page.tags.size %}
