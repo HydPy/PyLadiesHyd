@@ -7,7 +7,7 @@ Greetings from PyLadies Hyderabad!!
 
 Watch our webinar live on youtube (https://youtu.be/vEq5c5sleZw) or [CLICK HERE](https://youtu.be/vEq5c5sleZw).
 
-![]({{ site.url }}/assets/img/july_meetup_2020.png)
+![]({{ site.url }}/assets/img/august_meetup_2020.jpeg)
 
 Join with us on Building your First Python project.. 
 
