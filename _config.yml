@@ -14,7 +14,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <p>Pyladies Hyderabad is a local mentorship group of an International Pyladies group with a focus on helping more women become active participants and leaders in the Python open-source community!</p>
-     <a class="button-inverse" href="https://chat.whatsapp.com/Dlfm2VluQHzH822sQrrzZp"><i class="fa fa-whatsapp" aria-hidden="true"></i>&nbsp;Join Us</a>
+     <a class="button-inverse" href="https://chat.whatsapp.com/H9q6kOfYQ0wHaQ7y6DZv6F"><i class="fa fa-whatsapp" aria-hidden="true"></i>&nbsp;Join Us</a>
      <a class="button-inverse" href="https://forms.gle/FGMQ8mSXzgptvugp7">Become a Speaker</a>
   header_text_feature_image:
   footer_text: >
